@@ -13,6 +13,7 @@ cp xxx src/
 vim README.md
 
 # github上传
+git pull
 git add .
 git commit -m 'what you have done in this commit'
 git push
