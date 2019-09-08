@@ -6,10 +6,11 @@ git clone https://github.com/WeiyuCheng/legal-case-review.git
 cd legal-case-review
 # 将你的数据、代码拷贝进相应目录，并修改README文件
 cd 案由信息不当
-cp xxx data
-cp xxx src
+cp xxx data/
+cp xxx src/
 vim README.md
 # github上传
 git add .
 git commit -m 'what you have done in this commit'
 git push
+```
