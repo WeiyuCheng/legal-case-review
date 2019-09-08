@@ -12,4 +12,12 @@ xx:
 yy:
 
 ---
-## 其他说明
+## 实验结果简要说明
+- 运行xxx算法，实验结果为
+	- accuracy: , precision: , recall:
+- 运行xxx算法，实验结果为
+	- accuracy: , precision: , recall:
+- 实验结果分析
+	- xxx
+	- xxx
+	- xxx
