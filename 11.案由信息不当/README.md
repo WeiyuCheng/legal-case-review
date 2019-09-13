@@ -1,5 +1,11 @@
 ## 数据说明
-### 输入数据格式：xxx
+### 输入数据
+
+1. criminal.json/civil.json/admin.json，为把手网上爬下来的数据
+2. 
+
+
+
 ### 输出格式：xxx
 
 ---
