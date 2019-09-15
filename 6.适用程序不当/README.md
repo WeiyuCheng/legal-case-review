@@ -13,10 +13,12 @@ yy:
 
 ---
 ## 实验结果简要说明
-- 运行xxx算法，实验结果为
+- 运行DecisionTree算法，实验结果为
 	- accuracy: , precision: , recall:
-- 运行xxx算法，实验结果为
+- 运行LightGBM算法，实验结果为
 	- accuracy: , precision: , recall:
+- 运行XGBoost算法，实验结果为
+        - accuracy： ， precision： recall
 - 实验结果分析
 	- xxx
 	- xxx
