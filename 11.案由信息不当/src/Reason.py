@@ -175,7 +175,7 @@ def nerual_network(input_train,output_train,reasons):
 	plt.xlabel('epoch')
 	plt.legend(['train','test'],loc='upper right')
 	plt.savefig('./loss.png')
-	#model3 : include '认为' and 'docName'
+
 
 def get_result(input_train,output_train,input_test,output_test,output_test_c,reasons,reasonNum):
 	f=open('result.txt','a')
