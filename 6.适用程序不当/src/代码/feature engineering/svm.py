@@ -1,5 +1,6 @@
-from DataRead import reas ,text ,l
-from FeatureExtract import ximport jieba
+from DataRead import *
+from FeatureExtract import *
+import jieba
 from sklearn.externals import joblib
 from sklearn.feature_extraction.text import TfidfVectorizer as TFIDF
 from sklearn.svm import LinearSVC
