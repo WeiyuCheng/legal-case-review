@@ -1,5 +1,5 @@
-from DataRead import reas ,text ,l
-from FeatureExtract import x
+from DataRead import *
+from FeatureExtract import *
 import numpy as np
 import scipy as sp
 from sklearn import tree
