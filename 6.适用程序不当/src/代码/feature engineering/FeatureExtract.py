@@ -1,4 +1,4 @@
-from DataRead import reas ,text ,l
+from DataRead import *
 #人名，时间，地名，组织名使用哈工大的pyltp模板工具进行提取然后计算
 # timecount = []
 # personcount = []
