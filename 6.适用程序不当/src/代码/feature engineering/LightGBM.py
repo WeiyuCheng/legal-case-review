@@ -1,5 +1,5 @@
-from DataRead import reas ,text ,l
-from FeatureExtract import x
+from DataRead import *
+from FeatureExtract import *
 import lightgbm as lgb
 import pandas as pd
 from sklearn.metrics import mean_squared_error
