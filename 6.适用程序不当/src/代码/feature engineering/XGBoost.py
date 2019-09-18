@@ -1,5 +1,5 @@
-from DataRead import reas ,text ,l
-from FeatureExtract import x
+from DataRead import *
+from FeatureExtract import *
 from numpy import loadtxt
 from xgboost import XGBClassifier
 from sklearn.model_selection import train_test_split
