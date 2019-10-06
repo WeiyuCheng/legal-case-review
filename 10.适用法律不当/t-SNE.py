@@ -22,7 +22,7 @@ dropout=0.5
 embedding_dim=128
 input_dir = "./data/"
 device = torch.device('cuda:1' if torch.cuda.is_available() else 'cpu')
-load_model_dir = "./model/textcnn/"
+load_model_dir = "./model/"
 load_model_name = "pretrained_textcnn_dim128_filter_2,3,4_num100"
 load_model_path = load_model_dir + load_model_name + ".pkl"
 
